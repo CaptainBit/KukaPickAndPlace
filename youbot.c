@@ -43,7 +43,7 @@ int main(int argc, char **argv)
  //Trouver le cube et se rapprocher de celui-ci
  FindCube(MyYouBotManipulator,MyYouBotBase);
  
- //Move close and rototate if needed 
+ //Move close and rotate if needed 
  GetInPosition(MyYouBotManipulator, MyYouBotBase, 40.0f);
  
  //Pick dices and place them on top of the box
